@@ -137,7 +137,7 @@ footer {
 @media only screen and (max-width: 470px)
 {
   .main {
-    height: 16rem;
+    height: 16rem; /* used 16rem instead of 15rem as in spec */
   }
 
   .headline {
